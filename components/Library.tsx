@@ -8,7 +8,6 @@ import { useUser } from "@/hooks/useUser";
 import useAuthModal from "@/hooks/useAuthModal";
 import useUploadModal from "@/hooks/useUploadModal";
 import useOnPlay from "@/hooks/useOnPlay";
-import useSubscribeModal from "@/hooks/useSubscribeModal";
 
 import { Song } from "@/types";
 import MediaItem from "./MediaItem";
